@@ -2,7 +2,7 @@
 
 ## Opá! Eu sou o Joabson Borges
 
-- 🔭 Hoje trabalho como fullstark em Java
+- 🔭 Hoje trabalho como Desenvolvedor Full Stack em Java
 - 🌱 Sempre estudando novas linguagens 
 
 <div align="center">
